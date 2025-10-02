@@ -54,7 +54,11 @@ Multiple models were trained and evaluated:
 
 ## Charts
 Below are examples of visualizations used in the project:
+
 ![char1](https://github.com/Esraa-MOhamed7/Airline-Customer-Satisfaction-Prediction/blob/main/Age%20Distribution%20by%20Customer%20Type.png)
+
 ![chart2](https://github.com/Esraa-MOhamed7/Airline-Customer-Satisfaction-Prediction/blob/main/Customer%20Satisfaction%20Distribution.png)
-![chart3](jjsnnd)
+
+![chart3](https://github.com/Esraa-MOhamed7/Airline-Customer-Satisfaction-Prediction/blob/main/Distribution%20of%20Flight%20Distance.png)
+
 ![chart4](hjhebc)

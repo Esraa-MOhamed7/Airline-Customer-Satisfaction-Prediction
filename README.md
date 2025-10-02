@@ -50,7 +50,10 @@ Transformations included:
 Multiple models were trained and evaluated:
 - Logistic Regression, Random Forest, XGBoost
 - Performance metrics: Accuracy, Precision, Recall, F1-score
-## Some Visulation
+
+
+## Charts
+Below are examples of visualizations used in the project:
 ![char1](wwff)
 ![chart2](jjhahs)
 ![chart3](jjsnnd)

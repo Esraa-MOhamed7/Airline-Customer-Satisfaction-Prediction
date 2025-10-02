@@ -61,4 +61,4 @@ Below are examples of visualizations used in the project:
 
 ![chart3](https://github.com/Esraa-MOhamed7/Airline-Customer-Satisfaction-Prediction/blob/main/Distribution%20of%20Flight%20Distance.png)
 
-![chart4](hjhebc)
+![chart4](https://github.com/Esraa-MOhamed7/Airline-Customer-Satisfaction-Prediction/blob/main/Satisfaction%20by%20Travel%20Class.png)
